@@ -10,8 +10,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <junit.version>4.12</junit.version>
-    <source.version>1.7</source.version>
-    <target.version>1.7</target.version>
+    <source.version>1.6</source.version>
+    <target.version>1.6</target.version>
   </properties>
   <dependencies>
     <dependency>
